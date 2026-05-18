@@ -1,0 +1,2 @@
+"use strict";(("undefined"!==typeof self?self:this)["webpackChunktest_router_0_1_0"]=("undefined"!==typeof self?self:this)["webpackChunktest_router_0_1_0"]||[]).push([[739],{1438:function(e,t,n){n.r(t),n.d(t,{default:function(){return s}});var u=n(9274),r=n(8974),l=(0,u.defineComponent)({__name:"limitrange",setup(e){const t=(0,r.rd)(),n=(0,u.computed)(()=>t.currentRoute.value.fullPath);return(e,t)=>((0,u.openBlock)(),(0,u.createElementBlock)("div",null,(0,u.toDisplayString)(n.value),1))}});const o=l;var s=o}}]);
+//# sourceMappingURL=test-router-0.1.0.umd.min.edit.js.map

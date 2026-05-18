@@ -1,0 +1,7 @@
+plugin/package.json
+plugin/test-router-0.1.0.umd.min.974.js
+plugin/test-router-0.1.0.umd.min.974.js.map
+plugin/test-router-0.1.0.umd.min.edit.js
+plugin/test-router-0.1.0.umd.min.edit.js.map
+plugin/test-router-0.1.0.umd.min.js
+plugin/test-router-0.1.0.umd.min.js.map

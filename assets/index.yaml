@@ -12,12 +12,12 @@ entries:
       catalog.cattle.io/ui-extensions-version: '>= 3.0.0 < 4.0.0'
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-05-18T21:09:29.493714103Z"
+    created: "2026-05-18T21:10:11.928050064Z"
     description: test-router plugin
-    digest: 936ec2c4bf1f4d3799eed435d0e6b840391e6485586abb81002a9ad4ae0c27fe
+    digest: 3f8d89ed8cbcae8c61d4b63e52a01aad694522ddb2da6d5bd2931a72d9f9de40
     name: test-router
     type: application
     urls:
     - assets/test-router/test-router-0.1.0.tgz
     version: 0.1.0
-generated: "2026-05-18T21:09:29.49317589Z"
+generated: "2026-05-18T21:10:11.92772967Z"

@@ -11,6 +11,25 @@ entries:
       catalog.cattle.io/ui-component: plugins
       catalog.cattle.io/ui-extensions-version: '>= 3.0.0 < 4.0.0'
     apiVersion: v2
+    appVersion: 0.2.0
+    created: "2026-05-18T21:58:55.921231673Z"
+    description: test-router plugin
+    digest: d688ad3d8d489607172de732fb40eec5f609fdf8e3501a14d68a813bb70adde0
+    name: test-router
+    type: application
+    urls:
+    - assets/test-router/test-router-0.2.0.tgz
+    version: 0.2.0
+  - annotations:
+      catalog.cattle.io/certified: rancher
+      catalog.cattle.io/namespace: cattle-ui-plugin-system
+      catalog.cattle.io/os: linux
+      catalog.cattle.io/permits-os: linux, windows
+      catalog.cattle.io/rancher-version: '>= 2.10.0'
+      catalog.cattle.io/scope: management
+      catalog.cattle.io/ui-component: plugins
+      catalog.cattle.io/ui-extensions-version: '>= 3.0.0 < 4.0.0'
+    apiVersion: v2
     appVersion: 0.1.0
     created: "2026-05-18T21:10:11.928050064Z"
     description: test-router plugin
@@ -20,4 +39,4 @@ entries:
     urls:
     - assets/test-router/test-router-0.1.0.tgz
     version: 0.1.0
-generated: "2026-05-18T21:10:11.92772967Z"
+generated: "2026-05-18T21:58:55.920673281Z"

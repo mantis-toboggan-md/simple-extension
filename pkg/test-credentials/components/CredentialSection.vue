@@ -179,6 +179,7 @@ load();
     </div>
     <LabeledSelect
       v-else
+      :disabled="mode !== 'create'"
       v-model:value="selected"
       :label="t('testCredentials.credential.label')"
       :options="options"

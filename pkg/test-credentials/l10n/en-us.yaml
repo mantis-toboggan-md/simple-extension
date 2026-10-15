@@ -1,0 +1,20 @@
+cluster:
+  provider:
+    testcredentials: Test Credentials
+
+testCredentials:
+  description: Sample provisioner with its own credential component. Provisions no machines.
+  credential:
+    label: Credential Secret
+    createNew: Create a new credential secret
+    name: Secret Name
+    token: Token
+    failSave:
+      label: Fail on save (for testing)
+      error: Save failed because Fail on save is checked
+  infrastructure:
+    title: Test Credentials Infrastructure
+    credentialId: Credential ID passed to this section
+    identityRef: Identity reference on the infrastructure cluster
+  machineConfig:
+    credentialId: Credential ID passed to the machine config
